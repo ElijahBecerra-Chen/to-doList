@@ -4,6 +4,8 @@
 
 >  So far, I've learned HTML5, CSS3, Bootstrap 5.2(*Not being used in this work*), JavaScript, DOM manipulation, <br>Git + Github with ZTM (*Since 2022-Apr.*) and have been learning all the skills of becoming a Web Developer (Fullstack). I was trying to make a work that contains the design objectives that I made and wanted this to be the original version. To see the learning growth and to optimize the To-do List, I expect to receive more advice from friends, family, or even strangers. And to make sure that I keep improving my skills, I'll try to add the functions that people expect to see and solve those problems I'm going to encounter.
 
+<br>
+
 <p align="center">
   <img alt="To-do List sample" src="https://drive.google.com/uc?export=view&id=1GrtkTPhaEKp6OY-yEpXh_SutPdTkgQji" />
  </p>

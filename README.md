@@ -33,7 +33,7 @@
 
 <br>
 
-> After some testing by family and friends, I've recieved some pretty useful advice<br> To be honest, they're all challenging to me... for now.<br>However, I'll optimize the items down below in the future.
+> After some testing by family and friends, I've recieved some pretty useful advice<br> To be honest, they're all challenging to me... for now.<br>However, I'll optimize the items down below and push them up in the future.
 
 <br>
 

@@ -14,18 +14,18 @@
 
 1. **RWD & UI/UX**
 
-  1. Can be used on mobile or desktop(Vertical, Horizontal, when the screen size is beeing adjusted).
-  1. Clean, simple, comfortable interface.
-  1. The list items will still be pretty organized even if the content is long and the content will not<br> be out of the background brick. 
+  * Can be used on mobile or desktop(Vertical, Horizontal, when the screen size is beeing adjusted).
+  * Clean, simple, comfortable interface.
+  * The list items will still be pretty organized even if the content is long and the content will not<br> be out of the background brick. 
   
   <br>
   
 2. **Functional**
 
-  1. The titles, input area and button will not be moving around when the list is getting longer.
-  1. Cursor becomes a pointer while hovering on the list items so the user can notice that it has a function,<br> and when users click on the item, it toggles the linethrough.
-  1. Has a button that can help deleting the items.
-  1. DeleteButton shows after users click on the item and shows the linethrough.
+  * The titles, input area and button will not be moving around when the list is getting longer.
+  * Cursor becomes a pointer while hovering on the list items so the user can notice that it has a function,<br> and when users click on the item, it toggles the linethrough.
+  * Has a button that can help deleting the items.
+  * DeleteButton shows after users click on the item and shows the linethrough.
   
 <br>
 

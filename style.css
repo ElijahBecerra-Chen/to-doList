@@ -106,7 +106,8 @@ color: #18335C;
 }
 
 .task_done{
-text-decoration: line-through rgb(254, 114, 58);
+text-decoration: line-through;
+text-decoration-color: rgb(254, 114, 58);
 text-decoration-style: solid;
 text-decoration-thickness: 2px;
 }
